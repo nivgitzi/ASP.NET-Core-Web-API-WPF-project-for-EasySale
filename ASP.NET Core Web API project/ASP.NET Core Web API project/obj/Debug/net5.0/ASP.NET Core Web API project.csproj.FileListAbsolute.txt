@@ -1,0 +1,64 @@
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\appsettings.json
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\ASP.NET Core Web API project.exe
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\ASP.NET Core Web API project.deps.json
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\ASP.NET Core Web API project.runtimeconfig.json
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\ASP.NET Core Web API project.runtimeconfig.dev.json
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\ASP.NET Core Web API project.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\ref\ASP.NET Core Web API project.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\ASP.NET Core Web API project.pdb
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Humanizer.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\obj\Debug\net5.0\ASP.NET Core Web API project.csproj.AssemblyReference.cache
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\obj\Debug\net5.0\ASP.NET Core Web API project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\obj\Debug\net5.0\ASP.NET Core Web API project.AssemblyInfoInputs.cache
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\obj\Debug\net5.0\ASP.NET Core Web API project.AssemblyInfo.cs
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\obj\Debug\net5.0\ASP.NET Core Web API project.csproj.CoreCompileInputs.cache
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\obj\Debug\net5.0\ASP.NET Core Web API project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\obj\Debug\net5.0\ASP.NET Core Web API project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\obj\Debug\net5.0\staticwebassets\ASP.NET Core Web API project.StaticWebAssets.Manifest.cache
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\obj\Debug\net5.0\staticwebassets\ASP.NET Core Web API project.StaticWebAssets.xml
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\obj\Debug\net5.0\scopedcss\bundle\ASP.NET Core Web API project.styles.css
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\obj\Debug\net5.0\ASP.NET Core Web API project.RazorTargetAssemblyInfo.cache
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\obj\Debug\net5.0\ASP.NET Core Web API project.csproj.CopyComplete
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\obj\Debug\net5.0\ASP.NET Core Web API project.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\obj\Debug\net5.0\ref\ASP.NET Core Web API project.dll
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\obj\Debug\net5.0\ASP.NET Core Web API project.pdb
+C:\Users\NIV\source\repos\ASP.NET Core Web API project\ASP.NET Core Web API project\obj\Debug\net5.0\ASP.NET Core Web API project.genruntimeconfig.cache
